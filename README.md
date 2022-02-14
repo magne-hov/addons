@@ -16,14 +16,8 @@ Loads all debug files in the specified directory.
 [**Backtrace with time**](backtrace_with_time/README.md)  
 Adds a ubt command which adds basic block counts to frames within a backtrace.
 
-[**Bookmarks recreate**](bookmarks_recreate/README.md)  
-Save and restore bookmarks to and from a file.
-
 [**Completion**](completion/README.md)  
 Adds completion of udb command line parameters in bash.
-
-[**Fancy prompt**](fancy_prompt/README.md)  
-Enhanced prompt support for UndoDB.
 
 [**Follow fork**](follow_fork/README.md)  
 Allows live-record to record both parent and child after `fork()` has been called.
